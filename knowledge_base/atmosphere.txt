@@ -1,0 +1,5 @@
+The atmosphere of Velorath is not breathable by humans. It is composed of approximately 74 percent nitrogen, 18 percent carbon dioxide, 5 percent argon, and trace amounts of methane and other gases. The high concentration of carbon dioxide makes unprotected exposure immediately harmful to human respiratory systems.
+
+Atmospheric pressure on Velorath is approximately 60 percent of Earth's sea-level pressure. This is lower than Earth but not low enough to cause immediate pressure-related injuries without a suit. Any human presence on the surface requires a fully sealed environmental suit with an independent oxygen supply.
+
+The atmosphere provides moderate protection from the host star's radiation but does not filter it as effectively as Earth's atmosphere. Long-term unprotected exposure to surface radiation would pose health risks. The atmospheric composition has remained stable across all observation periods, with no signs of active volcanic or biological processes significantly altering it at this time.
