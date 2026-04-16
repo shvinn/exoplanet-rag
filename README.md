@@ -73,6 +73,36 @@ uv run index.py
 uv run query.py
 ```
 
+## Evaluation
+
+The pipeline is evaluated using RAGAS-style metrics over a manually written test dataset of 18 Q&A pairs covering all 9 knowledge base documents.
+
+### Metrics
+
+| Metric | What it measures | Method |
+|---|---|---|
+| Faithfulness | Are all answer claims supported by the retrieved context? | LLM-as-judge |
+| Answer Relevancy | Does the answer address the question asked? | Embedding similarity |
+| Context Recall | Does the retrieved context contain enough to answer the ground truth? | LLM-as-judge |
+| Context Precision | Of the retrieved chunks, how many were actually useful? | LLM-as-judge |
+
+### Baseline Results (top-k=2)
+
+| Metric | Score |
+|---|---|
+| Faithfulness | 0.917 |
+| Answer Relevancy | 0.728 |
+| Context Recall | 0.903 |
+| Context Precision | 0.639 |
+
+### Running Evaluation
+
+```bash
+uv run eval/evaluate.py
+```
+
+Results are saved to `eval/results.json`.
+
 ## Project Structure
 
 ```
@@ -87,5 +117,9 @@ exoplanet-rag/
   ├── llm.py                ← LLM client and answer generation
   ├── pipeline_walkthrough.py ← step-by-step build walkthrough
   ├── docker-compose.yml    ← ChromaDB service
-  └── knowledge_base/       ← source documents
+  ├── knowledge_base/       ← source documents
+  └── eval/
+        ├── test_dataset.json ← 18 Q&A pairs for evaluation
+        ├── evaluate.py       ← evaluation script
+        └── results.json      ← latest scores (generated)
 ```

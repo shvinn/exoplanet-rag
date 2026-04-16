@@ -1,0 +1,172 @@
+{
+  "per_question": [
+    {
+      "question": "What is the gravity on Velorath?",
+      "ground_truth": "Gravity on Velorath is 0.4g, which is about 40 percent of Earth's gravitational pull. A person weighing 70 kilograms on Earth would feel as though they weigh around 28 kilograms on Velorath.",
+      "answer": "The gravity on Velorath measures 0.4g, which is about 40 percent of Earth's gravitational pull.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8388499617576599,
+      "context_recall": 1.0,
+      "context_precision": 1.0
+    },
+    {
+      "question": "How long is a day on Velorath?",
+      "ground_truth": "A single day on Velorath lasts 61 Earth hours.",
+      "answer": "A day on Velorath lasts 61 Earth hours.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.75091952085495,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "How long is a year on Velorath?",
+      "ground_truth": "A full year on Velorath is equivalent to approximately 520 Earth days.",
+      "answer": "A year on Velorath is equivalent to approximately 520 Earth days.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7887392044067383,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What is the atmospheric composition of Velorath?",
+      "ground_truth": "The atmosphere of Velorath is composed of approximately 74 percent nitrogen, 18 percent carbon dioxide, 5 percent argon, and trace amounts of methane and other gases.",
+      "answer": "The atmosphere of Velorath is composed of approximately 74 percent nitrogen, 18 percent carbon dioxide, 5 percent argon, and trace amounts of methane and other gases.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8607974052429199,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "Is the atmosphere on Velorath breathable by humans?",
+      "ground_truth": "No, the atmosphere of Velorath is not breathable by humans. The high concentration of carbon dioxide makes unprotected exposure immediately harmful to human respiratory systems. Any human presence on the surface requires a fully sealed environmental suit with an independent oxygen supply.",
+      "answer": "No, the atmosphere on Velorath is not breathable by humans.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7433859705924988,
+      "context_recall": 1.0,
+      "context_precision": 1.0
+    },
+    {
+      "question": "What is the Gralk?",
+      "ground_truth": "The Gralk is the largest observed creature on Velorath. It is a six-limbed predator approximately 2 meters in length with a tough, ridge-plated exterior. It moves in short rapid bursts, is aggressive, primarily inhabits the ridge formations, and feeds on smaller fauna.",
+      "answer": "The Gralk is the largest observed creature on Velorath, a six-limbed predator approximately 2 meters in length with a tough, ridge-plated exterior that moves in short rapid bursts and has demonstrated aggressive behavior.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.4977826774120331,
+      "context_recall": 1.0,
+      "context_precision": 1.0
+    },
+    {
+      "question": "What do Vellin creatures eat?",
+      "ground_truth": "Vellin creatures feed on Duskmoss.",
+      "answer": "Vellin creatures eat Duskmoss.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8838184475898743,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What is Duskmoss?",
+      "ground_truth": "Duskmoss is a plant-like organism on Velorath. It grows in flat, dense clusters close to the ground, has dark blue-green pigmentation, and derives energy through a combination of low-light absorption and chemosynthetic processes. It does not rely on traditional photosynthesis and reproduces through lateral spreading of root-like filaments.",
+      "answer": "Duskmoss is a category of plant-like organisms on Velorath that grow in flat, dense clusters close to the ground, rarely exceeding 10 centimeters in height. They have dark blue-green pigmentation and do not rely on traditional photosynthesis, instead deriving energy through low-light absorption and chemosynthetic processes from the soil. Duskmoss produces trace amounts of oxygen but does not flower, produce seeds, or grow vertically.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.737389862537384,
+      "context_recall": 1.0,
+      "context_precision": 1.0
+    },
+    {
+      "question": "Is there any water on Velorath?",
+      "ground_truth": "There is no liquid water on the surface of Velorath. However, ice deposits have been confirmed at both polar regions and in underground caverns discovered during the 2049 mission beneath the southern ridge formations.",
+      "answer": "There is no liquid water on the surface of Velorath, but ice deposits have been confirmed at both polar regions and in underground caverns.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.7928522229194641,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What is Ferranite?",
+      "ground_truth": "Ferranite is a dense magnetic mineral found in high concentrations within Velorath's ridge formations. It has an unusually strong natural magnetic field and has been flagged for potential applications in energy storage and advanced shielding technologies.",
+      "answer": "Ferranite is a dense magnetic mineral found in high concentrations within the ridge formations on Velorath. It possesses an unusually strong natural magnetic field and has potential applications in energy storage and advanced shielding technologies.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8412008285522461,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What are the energy sources available on Velorath?",
+      "ground_truth": "Geothermal vents located near the deep fissures release consistent heat energy from Velorath's active interior and have been identified as a potential renewable energy source for any future surface installation.",
+      "answer": "The energy sources available on Velorath include geothermal energy sources and the potential use of Ferranite for energy storage applications.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8484644293785095,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What color is the sky on Velorath?",
+      "ground_truth": "The sky on Velorath appears deep amber during daylight hours. As the planet approaches dusk, the sky transitions to a dark violet before fading into a near-black night.",
+      "answer": "The sky on Velorath appears deep amber during daylight hours and transitions to dark violet at dusk before fading into near-black at night.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8380568623542786,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What are the temperature extremes on Velorath?",
+      "ground_truth": "During peak daytime hours temperatures can reach up to 18 degrees Celsius in equatorial regions. At night temperatures drop sharply to around minus 30 degrees Celsius. Polar regions remain consistently below minus 60 degrees Celsius.",
+      "answer": "The polar regions remain consistently below minus 60 degrees Celsius.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.5564582943916321,
+      "context_recall": 0.3333333333333333,
+      "context_precision": 0.5
+    },
+    {
+      "question": "How fast can winds get on Velorath?",
+      "ground_truth": "Storms on Velorath bring strong horizontal winds reaching up to 140 kilometers per hour. These storms typically last between 6 to 10 hours.",
+      "answer": "Winds on Velorath can reach up to 140 kilometers per hour.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8808661103248596,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "When was the first crewed mission to Velorath?",
+      "ground_truth": "The first crewed mission arrived in 2047 with a team of six researchers. They spent 40 days on the surface.",
+      "answer": "The first crewed mission to Velorath was in 2047.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.8504853248596191,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What was discovered during the 2049 mission to Velorath?",
+      "ground_truth": "The 2049 mission discovered a network of underground ice caverns beneath the southern ridge. Analysis of ice samples revealed trace organic compounds whose origin remains under investigation. The Shreth species was also observed for the first time near the methane pools during this mission.",
+      "answer": "I don't have enough information.",
+      "faithfulness": 0.0,
+      "answer_relevancy": 0.12157069891691208,
+      "context_recall": 0.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "What is the unresolved signal detected on Velorath?",
+      "ground_truth": "A recurring low-frequency signal has been detected emanating from the southern ridge on three separate occasions across different missions. The signal does not match any known geological or atmospheric phenomenon and its source has not been identified.",
+      "answer": "The unresolved signal detected on Velorath is an unidentified signal emanating from the southern ridge, which has been detected on three separate occasions across different missions. It does not match any known geological or atmospheric phenomenon.",
+      "faithfulness": 1.0,
+      "answer_relevancy": 0.6745409369468689,
+      "context_recall": 1.0,
+      "context_precision": 0.5
+    },
+    {
+      "question": "Can Velorath be terraformed?",
+      "ground_truth": "Long-term terraforming of Velorath's atmosphere is theoretically possible but would require centuries of intervention. The primary barrier is the high CO2 concentration and absence of breathable oxygen.",
+      "answer": "I don't have enough information.",
+      "faithfulness": 0.0,
+      "answer_relevancy": -0.007882139645516872,
+      "context_recall": 1.0,
+      "context_precision": 1.0
+    }
+  ],
+  "aggregate": {
+    "faithfulness": 0.8888888888888888,
+    "answer_relevancy": 0.6943498121884962,
+    "context_recall": 0.9074074074074073,
+    "context_precision": 0.6388888888888888
+  }
+}

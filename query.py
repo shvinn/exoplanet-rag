@@ -12,7 +12,7 @@ EMBEDDING_MODEL = "all-MiniLM-L6-v2"
 CHROMA_HOST = "localhost"
 CHROMA_PORT = 8000
 COLLECTION_NAME = "velorath"
-TOP_K = 3
+TOP_K = 2
 
 
 def main():

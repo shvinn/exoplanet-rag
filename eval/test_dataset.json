@@ -1,0 +1,74 @@
+[
+  {
+    "question": "What is the gravity on Velorath?",
+    "ground_truth": "Gravity on Velorath is 0.4g, which is about 40 percent of Earth's gravitational pull. A person weighing 70 kilograms on Earth would feel as though they weigh around 28 kilograms on Velorath."
+  },
+  {
+    "question": "How long is a day on Velorath?",
+    "ground_truth": "A single day on Velorath lasts 61 Earth hours."
+  },
+  {
+    "question": "How long is a year on Velorath?",
+    "ground_truth": "A full year on Velorath is equivalent to approximately 520 Earth days."
+  },
+  {
+    "question": "What is the atmospheric composition of Velorath?",
+    "ground_truth": "The atmosphere of Velorath is composed of approximately 74 percent nitrogen, 18 percent carbon dioxide, 5 percent argon, and trace amounts of methane and other gases."
+  },
+  {
+    "question": "Is the atmosphere on Velorath breathable by humans?",
+    "ground_truth": "No, the atmosphere of Velorath is not breathable by humans. The high concentration of carbon dioxide makes unprotected exposure immediately harmful to human respiratory systems. Any human presence on the surface requires a fully sealed environmental suit with an independent oxygen supply."
+  },
+  {
+    "question": "What is the Gralk?",
+    "ground_truth": "The Gralk is the largest observed creature on Velorath. It is a six-limbed predator approximately 2 meters in length with a tough, ridge-plated exterior. It moves in short rapid bursts, is aggressive, primarily inhabits the ridge formations, and feeds on smaller fauna."
+  },
+  {
+    "question": "What do Vellin creatures eat?",
+    "ground_truth": "Vellin creatures feed on Duskmoss."
+  },
+  {
+    "question": "What is Duskmoss?",
+    "ground_truth": "Duskmoss is a plant-like organism on Velorath. It grows in flat, dense clusters close to the ground, has dark blue-green pigmentation, and derives energy through a combination of low-light absorption and chemosynthetic processes. It does not rely on traditional photosynthesis and reproduces through lateral spreading of root-like filaments."
+  },
+  {
+    "question": "Is there any water on Velorath?",
+    "ground_truth": "There is no liquid water on the surface of Velorath. However, ice deposits have been confirmed at both polar regions and in underground caverns discovered during the 2049 mission beneath the southern ridge formations."
+  },
+  {
+    "question": "What is Ferranite?",
+    "ground_truth": "Ferranite is a dense magnetic mineral found in high concentrations within Velorath's ridge formations. It has an unusually strong natural magnetic field and has been flagged for potential applications in energy storage and advanced shielding technologies."
+  },
+  {
+    "question": "What are the energy sources available on Velorath?",
+    "ground_truth": "Geothermal vents located near the deep fissures release consistent heat energy from Velorath's active interior and have been identified as a potential renewable energy source for any future surface installation."
+  },
+  {
+    "question": "What color is the sky on Velorath?",
+    "ground_truth": "The sky on Velorath appears deep amber during daylight hours. As the planet approaches dusk, the sky transitions to a dark violet before fading into a near-black night."
+  },
+  {
+    "question": "What are the temperature extremes on Velorath?",
+    "ground_truth": "During peak daytime hours temperatures can reach up to 18 degrees Celsius in equatorial regions. At night temperatures drop sharply to around minus 30 degrees Celsius. Polar regions remain consistently below minus 60 degrees Celsius."
+  },
+  {
+    "question": "How fast can winds get on Velorath?",
+    "ground_truth": "Storms on Velorath bring strong horizontal winds reaching up to 140 kilometers per hour. These storms typically last between 6 to 10 hours."
+  },
+  {
+    "question": "When was the first crewed mission to Velorath?",
+    "ground_truth": "The first crewed mission arrived in 2047 with a team of six researchers. They spent 40 days on the surface."
+  },
+  {
+    "question": "What was discovered during the 2049 mission to Velorath?",
+    "ground_truth": "The 2049 mission discovered a network of underground ice caverns beneath the southern ridge. Analysis of ice samples revealed trace organic compounds whose origin remains under investigation. The Shreth species was also observed for the first time near the methane pools during this mission."
+  },
+  {
+    "question": "What is the unresolved signal detected on Velorath?",
+    "ground_truth": "A recurring low-frequency signal has been detected emanating from the southern ridge on three separate occasions across different missions. The signal does not match any known geological or atmospheric phenomenon and its source has not been identified."
+  },
+  {
+    "question": "Can Velorath be terraformed?",
+    "ground_truth": "Long-term terraforming of Velorath's atmosphere is theoretically possible but would require centuries of intervention. The primary barrier is the high CO2 concentration and absence of breathable oxygen."
+  }
+]
